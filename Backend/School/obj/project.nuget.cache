@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uOpGEHhuGwtlyIBJ62NirWOHlVRT6FVaUaKYrNErcrzsDbDrOuvYHrmWPRcLuQXcxLUqJo5XHJ6qNnD/pwlZZw==",
+  "dgSpecHash": "QcJw/duDVwL8ySiOfd45iV1pdxfl6vffRTS9fQu5LiKq72RLuZczz3xJgMnryLiwpeTHe0sUzjVf8HKUHznMYA==",
   "success": true,
-  "projectFilePath": "C:\\My Dev Files\\Projects\\Prepare for interview\\School\\School\\School.csproj",
+  "projectFilePath": "C:\\My Dev Files\\Projects\\fullstackApplicationTemplate\\Backend\\School\\School.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
